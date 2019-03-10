@@ -31,11 +31,11 @@ os
  
  ### Sample Grayscale Image Before Resizing  
  
- <img src="Images/Dog1.jpg" width="400">                            
+ <img src="Images/Dog1.jpg" width="300">                            
  
  ### Sample Grayscale Image After Resizing
  
- <img src="Images/Dog2.jpg" width="400"> 
+ <img src="Images/Dog2.jpg" width="300"> 
  
  ## Model
  ### Convolutional Neural Network
@@ -54,7 +54,7 @@ os
  ## Accuracy= 94.03%
  ## Validation Accuracy= 84.3%
  
- <img src="Images/catsanddog.jpg" width="400">
+ <img src="Images/catsanddog.jpg" width="1500">
  
  
  
