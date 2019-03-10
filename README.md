@@ -39,7 +39,7 @@ os
  
  ## Model
  ### Convolutional Neural Network
- Training Set= 12451 Samples<br/>
+ Training Set= 22451 Samples<br/>
  Validation Set= 2495 Samples
  
  ### Activation Functions
