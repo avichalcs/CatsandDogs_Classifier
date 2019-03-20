@@ -3,6 +3,9 @@
 I am taking raw images of Cats and Dogs and then feeding them through a convolutional neural network for classification. 
 The images are either of dogs or cats.
 
+## Note-
+### If you want to use this model then download the file "C&D Classifier" & use it with own data.
+
 ## Data Resource
 Dataset consists 12500 RGB images of cats and 12500 RGB images of dogs.<br/>
 You can download data from here.<br/>
@@ -51,10 +54,23 @@ os
  Batch Size=32<br/>
  Epochs=10
  
- ## Accuracy= 94.03%
- ## Validation Accuracy= 84.3%
+ ## Training Accuracy= 93.76%
+ ## Validation Accuracy= 81.28%
  
- <img src="Images/catsanddog.jpg" width="1500">
+ ## Model Test
+ <img src="Images/Test1.jpg" width="400"> 
+ <br/>
+ <br/>
+ <br/>
+ <img src="Images/Test2.jpg" width="400">
+ <br/>
+ <br/>
+ <br/>
+ <img src="Images/Test3.jpg" width="400">                               
+ <br/>
+ <br/>
+ <br/>
+ <img src="Images/Test4.jpg" width="400">
  
  
  
